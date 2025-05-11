@@ -52,13 +52,13 @@ label {
   /* Styles for sliding the left panel */
   position: absolute;
   left: 0px;
-  background-color: rgb(255, 166, 0);
+  background-color: red;
   transform: translateX(-100%);
 }
 
 .curtain__panel--right {
   /* Styles for sliding the right panel */
-  background-color: rgb(255, 166, 0);
+  background-color: red;
   position: absolute;
   right: 0px;
   transform: translateX(100%);
