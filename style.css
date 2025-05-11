@@ -45,6 +45,7 @@ label {
   left: 20%;
   z-index: 5;
   font-size: 50px;
+  font-family: fantasy;
 }
 
 .curtain__panel--left {
@@ -102,7 +103,7 @@ body {
   z-index: 999;
   padding: 8px 30px;
   font-size: 18px;
-  font-family: 'Poppins', sans-serif;
+  font-family: monospace;
   border-radius: 5px;
   border: 2px solid white;
   cursor: pointer;
