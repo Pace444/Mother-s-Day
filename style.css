@@ -69,6 +69,8 @@ label {
   z-index: 1; /* Places the prize behind the panels, which are z-index 2 */
   width: 100%;
   height: 100%;
+  top: 80%;
+  left: 30%;
   position: relative;
 }
 
@@ -102,8 +104,10 @@ body {
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   border-radius: 5px;
-  border: none;
+  border: 2px solid white;
   cursor: pointer;
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
 }
 
 .reloadBtn:hover {
